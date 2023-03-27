@@ -1,0 +1,14 @@
+{
+  "name": "tutorial-oauth-integration-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Onboardbase/tutorial-oauth-integration-backend.git",
+  "author": "olusamimaths <olusola.samuel.oluwatobi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
